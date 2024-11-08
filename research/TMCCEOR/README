@@ -1,0 +1,12 @@
+Do not forget to do the following to center the webpage. 
+
+Put this one line of code just after the 
+<body> tag in the html file so that it looks like
+
+<body>
+  <div id="container" style="margin: 0 auto; width: xxxpx; text-align: left;>
+    ...entire layout goes here...
+  </div>
+</body>
+
+In the width part, just use some number like 800 or 1200 etc instead of the "xxx". 

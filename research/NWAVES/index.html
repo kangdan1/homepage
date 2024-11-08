@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML>
+<HEAD>
+<TITLE>Nonlinear Waves</TITLE>
+<META NAME="description" CONTENT="qnrf-nsf">
+<META NAME="keywords" CONTENT="qnrf-nsf">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META NAME="Generator" CONTENT="LaTeX2HTML v2008">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="qnrf-nsf.css">
+
+<LINK REL="next" HREF="node1.html">
+</HEAD>
+
+<BODY >
+<div id="container" style="margin: 0 auto; width: 700px; text-align: left;>
+
+<P>
+<BIG CLASS="LARGE"><B>Nonlinear Waves</B></BIG>
+<BR>
+
+<p> Please visit this page as often as you please as new opportunities may arise for some of you interested in this area.
+<br>
+
+<p>
+<B>Surface Water Waves:</B> We have developed some asymptotic surface water wave models, namely fourth and sixth order Boussinesq equations from the full water wave problem within the potential flow formulation. The initial value problem for the fourth order Boussinesq equation is <B>linearly</B> illposed: the short waves grow quadratically with wave number. Hence roundoff error, however tiny, will get amplified by the multiplicative factor exp(tksqured) and this will trigger violent instabilities for short waves. However, this <B>nonlinear</B> initial value problem is wellposed provided the associated scattering data has sufficiently small support. It is not easy to see precisely which initial data satisfy the small support property, but for small data, the condition "scattering data with sufficiently small support" should be well approximated by the condition "Fourier transform with small support". There are two difficulties in computing solutions of this equation with initial data with small Fourier support: (a) In choosing data with small Fourier support, the actual scattering data may not have compact support. Although the magnitude of the scattering data outside the Fourier support may be tiny, the effect is multiplied by exp(tksqured), and this can rapidly lead to instabilities; (b) even if the bona fide scattering data has compact support, roundoff errors can trigger instabilities through the same multiplication effect as in (a). We have attempted two techniques, regularization and filtering, to suppress (b) and in effect (a). The sixth order Boussinesq equation is a regularized version of the fourth order equation.The sixth order one suppresses the growth rate of the short waves and thus it is relatively easier to compute with the sixth order one. With careful tuning of the regularizing terms, it is possible to construct accurate solutions of the fourth order equation up to some finite time. This technique is called regularization method. There is another technique called filtering technique in which it is possible to construct approximate solutions by filtering short waves appropriately using smart filters. Both of these methods along with development of smart filters have been applied to the Boussineq equations. Towards this end, it should be mentioned that the sixth oreder equation pose computational challenges of different kind due to radiation of dispersive traveling wavetrain of exponentially small amplitude.
+<br>
+<p>
+The fourth order equation has exact solitary wave solutions whereas the sixth order equation has non-local (generalized) solitary wave solutions similar to the fifth order Kdv equation. We have done computations with these equations as well as proved existence of nonlocal solitary solutions for the sixth order equation. Most of these works were performed more than a fifteen years ago or so. There are some problems which I have looked into extensively related to these equations but have not yet published as the work remains incomplete as of now. I am in particular interested in singularity formation issues related to the illposed equation which is an ongoing project. More details you can find in some of our publications through the link below.
+<br>
+
+<p> 
+<a href="/~daripa/pubs/allpubs/pubs-NWAVES.html" TARGET="NWAVES">Publications on this topic</a></p>
+</p>
+
+<p>
+<B>Conservation Laws:</B> We have done research on solving the general initial value problem for a non-strictly hyperbolic system of conservation laws arising in the context of porous media flow during enhanced oil recovery. Motivation for this work is the use of associated Riemann solvers as a building block for numerical solution of these equations. The method based on this principle is usually called front tracking method as the method involves determination of the wave structure of the Riemann problem explicitly and then tracking these resolved waves as accurately as possible. Our work in the eighties were in two-dimension involving a two by two non-strictly hyperbolic system of conservation laws in the context of what is called polymer flooding in Enhanced Oil Recovery. Currently i am interested in extending this front-tracking method for three by three system that arise in the context of surfactant-polymer-flooding (see our most recent work in this area without any use of front tracking method or Riemanna solvers) and then extending these for 3-dimensional flows. I am also interested in developing Riemann solvers in higher dimensions. These are very challenging problems. More details on the this you can find in some of our publications through the link below.
+<br>
+
+<p> 
+<a href="/~daripa/pubs/allpubs/pubs-CLAWS.html" TARGET="NWAVES">Publications on this topic</a></p>
+
+<script>
+<p>
+<p><p>
+
+To know more about these <a href="./read-more.html">Read more</a> 
+
+<P><P>
+</script>
+
+<BR>
+
+</div>
+</body>
+</html>
+

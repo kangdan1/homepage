@@ -1,0 +1,777 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.48)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>allpubs</TITLE>
+<META NAME="description" CONTENT="allpubs">
+<META NAME="keywords" CONTENT="allpubs">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="allpubs.css">
+
+<LINK REL="next" HREF="node1.html">
+</HEAD>
+
+<BODY >
+<!--Navigation Panel-->
+<A NAME="tex2html1"
+  HREF="node1.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="file:/usr/local/lib/latex2html/icons/next.gif"></A> 
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="file:/usr/local/lib/latex2html/icons/up_g.gif"> 
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="file:/usr/local/lib/latex2html/icons/prev_g.gif">   
+<BR>
+<B> Next:</B> <A NAME="tex2html2"
+  HREF="node1.html">About this document ...</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<P>
+<DIV ALIGN="CENTER">
+<B>PUBLICATIONS of Prabir Daripa</B></DIV>
+
+<P>
+<BR>
+
+<P>
+<BR>
+
+<P>
+
+<P>
+<B>REFEREED JOURNAL RESEARCH PAPERS</B>
+<P>
+<BR>
+
+<P>
+
+<OL>
+<LI>``Note on Finite Difference Approximations to Burgers' Equation,'' 
+<I>SIAM J. Sci. Stat. Comput.</I>, 5(4), pp.&nbsp;856-864, 
+1984. (with H. Aref) 
+
+<P>
+</LI>
+<LI>``Exact and Approximate Gas Dynamics Using the Tangent Gas,''
+<I>J. Comp. Phys.</I>, 62(2), pp.&nbsp;400-413,
+1986. (with Lawrence Sirovich)
+
+<P>
+</LI>
+<LI>``An Inverse Method for Subcritical Flows,''
+<I>J. Comp. Phys.</I>, 63(2), pp.&nbsp;311-328,
+1986. (with Lawrence Sirovich)
+
+<P>
+</LI>
+<LI>``Polymer Floods: A Case Study of Nonlinear Wave
+Analysis And of Instability Control In Tertiary Oil Recovery,''
+<I>SIAM J. Appl. Math.</I>, 48, pp.&nbsp;353-373, 1988.
+(with J. Glimm, B. Lindquist, O. McBryan)
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/daripa_siap88.pdf">Reprint</a> (pdf file)
+
+<P>
+</LI>
+<LI>``An Exact Inverse Method For Subsonic Flows,''
+<I>Quart. Appl. Math.</I>, XLVI(3), pp.&nbsp;505-526, 1988.
+
+<P>
+</LI>
+<LI>``On Applications of a Complex Variable Method in Compressible 
+Flows,'' <I>J. Comp. Phys.</I>, 88(2), pp.&nbsp;337-361, 1990.
+
+<P>
+</LI>
+<LI>``Solvability Condition and its Application to Fast Numerical 
+Solution of Overposed Problems in Compressible Flows,''
+<I>J. Comp. Phys.</I>, 95(1), pp.&nbsp;436-449, 1991.
+
+<P>
+</LI>
+<LI>``On a Numerical Method for Quasi-conformal Grid Generation,''
+<I>J. Comp. Phys.</I>, 96(2), pp.&nbsp;229-236, 1991.
+
+<P>
+</LI>
+<LI>``Using the Grid Spacing Ratio As a Continuous Variable in One
+Dimensional Adaptive Grid Generation,''
+<I>Appl. Math. Lett.</I>, 4(1), pp.&nbsp;91-94, 1991.
+
+<P>
+</LI>
+<LI>``A New Theory for One-Dimensional Adaptive Grid Generation and
+its Applications,''
+<I>SIAM J. Numer. Anal.</I>, 29(6), pp.&nbsp;1635-1660, 1991.
+
+<P>
+</LI>
+<LI>``A Fast Algorithm to Solve Non-Homogeneous Cauchy-Riemann 
+Equations in the Complex Plane,''   
+<I>SIAM J. Sci. Stat. Comput.</I>, 13(6), pp.&nbsp;1418-1432, 1992.
+
+<P>
+</LI>
+<LI>``Iterative Schemes and Algorithms for Adaptive Grid Generation in 
+One Dimension,''   
+<I>J. Comp. Phys.</I>, 100(2), pp.&nbsp;284-293, 1992.
+
+<P>
+</LI>
+<LI>``A Fast Algorithm to Solve the Beltrami Equation with Applications
+to Quasiconformal Mappings,''
+<I>J. Comp. Phys.</I>, 106(2), pp.&nbsp;355-365, 1993.
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/jcp93.pdf">Reprint</a> (pdf file)
+
+<P>
+</LI>
+<LI>``The Singularity at the Tip of the Rising Plane Bubble: The Case
+of Non-Zero Surface Tension,''
+<I>Phys. Fluids</I>, 6(4), pp.&nbsp;1615-1617, 1994.
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/PHF01615.pdf">Reprint</a> (pdf file)
+
+<P>
+</LI>
+<LI>``An Investigation of Some Pattern Selection Issues in the Rising
+Plane Taylor-Bubble Problem,''
+<I>J. Comp. Phys.</I>, 121(1), pp.&nbsp;129-141, 1995.
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/jcp95.pdf">Reprint</a> (pdf file)
+
+<P>
+</LI>
+<LI>``Pointed Taylor Bubble Revisited,''
+<I>J. Comp. Phys.</I>, 123(1), pp.&nbsp;226-230, 1996.
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/jcp96.pdf">Reprint</a> (pdf file)
+
+<P>
+</LI>
+<LI>``Turbulent Combustion Modeling of Coal: Biomass Blends
+in a Swirl Burner I: Preliminary Results,'' ASME paper,   
+Emerging Energy Technology Book V, pp.&nbsp;415-423, 1997.
+(with S. Dhanapalan &amp; K. Annamalai)  
+
+<P>
+</LI>
+<LI>``Some Useful Filtering Techniques For Illposed Problems,''
+<I>J. Comp. Appl. Math.</I>, 100, pp. 161-171, 1998.
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/jcam0997.ps.gz">Reprint</a> (gzipped postscript file)
+
+<P>
+</LI>
+<LI>``Singular Integral Transforms and Fast Numerical Algorithms: I,''
+<I>Numer. Algor.</I>, 18, pp. 133-157, 1998.
+(with D. Mashat)
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/na1097a.ps.gz">Reprint</a> (gzipped postscript file)
+
+<P>
+</LI>
+<LI>``An Efficient and Novel Numerical Method for Quasiconformal Mappings of
+Doubly Connected Domains,''
+<I>Numer. Algor.</I>, 18, pp. 159-178, 1998.
+(with D. Mashat)
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/na1097b.ps.gz">Reprint</a> (gzipped postscript file)
+
+<P>
+</LI>
+<LI>``A Numerical Study of an Ill-posed Boussinesq Equation Arising
+in Water Waves and Nonlinear Lattices: Filtering and Regularization
+Techniques,'' <I>Appl. Math. Comp.</I>, 101(2), pp. 159-207, 1999.
+(with Wei Hua)
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/amc1097.ps.gz">Reprint</a> (gzipped postscript file)
+
+<P>
+</LI>
+<LI>``A Computational Study of the Rising Plane Taylor Bubble,''
+<I>J. Comp. Phys.</I>, 157(1), pp. 120-142, 2000.
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/bubble.ps.gz">Reprint</a> (gzipped postscript file) 
+
+<P>
+</LI>
+<LI>``A Parallel Version of A Fast Algorithm For Singular Integral
+Transforms,'' 
+<I>Numer. Algor.</I>, 23(1), pp. 71-96, 2000.
+(with L. Borges)
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/pifast.pdf">Reprint</a> (pdf file)
+
+<P>
+</LI>
+<LI>``The Fastest Smooth Taylor Bubble,''
+<I>Appl. Num. Math.</I>, 34(4), pp. 373-379, 2000.
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/fastest_bubble.ps.gz">Reprint</a> (gzipped postscript file)
+
+<P>
+</LI>
+<LI>``Compound Droplet in Extensional and Paraboloidal Flows,'' 
+<I>Phys. Fluids</I>, 12(10), pp.&nbsp;2377-2385, 2000. (with D. Palaniappan)
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/PHF02377.ps.gz">Reprint</a> (gzipped postscript file) 
+
+<P>
+</LI>
+<LI>``Weakly Non-local Solitary Wave Solutions of A Singularly Perturbed 
+Boussinesq Equation,'' 
+<I>Math. Comput. Sim.</I>, 55(4-6), pp. 395-407, 2001.
+(with R. Dash)
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/weakly_nonlocal.ps.gz">Reprint</a> (gzipped postscript file)
+
+<P>
+</LI>
+<LI>``A Fast Parallel Algorithm for the Poisson Equation on a Disk,'' 
+<I>Jour. Comput. Phys.</I>, 169, pp. 151-192, 2001.
+(with L. Borges).
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/parpoisson.ps.gz">Reprint</a> (gzipped postscript file)
+
+<P>
+</LI>
+<LI>``Interior Stokes Flows with Stick-Slip Boundary Conditions,'' 
+<I>Physica A</I>, 297(1-2), pp. 37-63, 2001.
+(with D. Palaniappan)
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/stokes_physicaA.ps.gz">Reprint</a> (gzipped postscript file)
+
+<P>
+</LI>
+<LI>``On a Boundary Control Approach to Domain Embedding Method,''
+<I>SIAM J. Cont. Opt.</I>, 40(2), pp. 421-449, 2001.
+(with L. Badea)
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/sicon35738.pdf">Reprint</a> (pdf file) 
+
+<P>
+</LI>
+<LI>``Singularity Induced Exterior and Interior Stokes Flows,"
+<I>Phys. Fluids</I>, 13(11), pp. 3134-3154, 2001. 
+(with D. Palaniappan)
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/phf01.ps.gz">Reprint</a> (gzipped postscript file)
+
+<P>
+</LI>
+<LI>``Generalized Circle and Sphere Theorems for Inviscid and Viscous 
+Flows with Applications,'' 
+<I>SIAM J. Appl. Math.</I>, 62(2), pp. 514-540, 2001. 
+(with D. Palaniappan)
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/siap37459.ps.gz">Reprint</a> (gzipped postscript file) 
+
+<P>
+</LI>
+<LI>``Analytical and Numerical Studies of a Singularly Perturbed 
+Boussinesq Equation,'' 
+<I>Appl. Math. Comput.</I>, 126(1), pp. 1-30, 2002. 
+(with R. Dash)
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/AMC6964.pdf">Reprint</a> (pdf file) 
+
+<P>
+</LI>
+<LI>``A Numerical Study of Pulsatile Blood Flow in An Eccentric 
+Catheterized Artery Using a Fast Algorithm," 
+<I>J. Engg. Math.</I>, 42(1), 1-16, 2002. (with R. Dash)
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/jem42.pdf">Reprint</a> (pdf file)
+
+<P>
+</LI>
+<LI>``Exterior Stokes Flows with Stick-Slip Boundary Conditions,''
+<I>ZAMP</I>, 53, 281-307, 2002. (with D. Palaniappan)
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/zamp_02.ps.gz">Reprint</a> (gzipped file)
+
+<P>
+</LI>
+<LI>``An Inverse Problem for the Helmholtz Equation Involving Two 
+Semi-infinite Fluids",
+<I>Inv. Prob. Engg,</I>, 10(3), pp. 203-214, 2002.
+(with A. Chakrabarti and S. Roy)
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/invengg.pdf">Reprint</a> (pdf file)
+
+<P>
+</LI>
+<LI>``A Fast Algorithm for Two-Dimensional Elliptical Problems,''
+<I>Numer. Algor.</I>, 30(3-4), pp. 199-239, 2002. 
+(with L. Badea)
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/fast_elliptic.pdf">Reprint</a> (pdf file)
+
+<P>
+</LI>
+<LI>``A Class of Model Equations for Bi-directional Propagation of
+Capillary-Gravity Waves,''
+<I>Intl. J. Engg. Sci.,</I> 41, pp. 201-218, 2003.  
+(With R. Dash)
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/bous_model.pdf">Reprint</a> (pdf file)
+
+<P>
+</LI>
+<LI>``On a Fourier Method of Embedding Domains Using an Optimal 
+Distributed Control,'' 
+<I>Numer. Algor.</I>, 32, pp. 261-273, 2003.
+(with L. Badea)
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/NA0403_embedding.pdf">Reprint</a> (pdf file)
+
+
+<P>
+</LI>
+<LI>``An asymptotic study of film thinning process on a spinning 
+annular disk,"
+<I>J. Appl. Phys.</I>, 94(6), pp. 4144-4151, 2003.
+(With B. Dandapat and P. C. Ray) 
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/JAP04144.pdf">Reprint</a> (pdf file)
+
+<P>
+</LI>
+<LI>``On a Domain Embedding Method Using Optimal Distributed Control 
+and A Fast Algorithm,'' 
+<I>Numer. Algor.</I>, 17 Pages, Accepted, To Appear in 2004. 
+(with L. Badea)
+
+<BR>
+<P>
+<B>Submitted:</B>
+
+<P>
+</LI>
+<LI>``Axisymmetric Creeping Flows In and Around a Vapor-Liquid 
+Compound Droplet,'' 
+<I>Submitted,</I> 35 Pages.
+(with D. Palaniappan)
+
+<P>
+</LI>
+<LI> Seveal Papers have been submitted. No time to type it in.
+
+<P>
+
+<P>
+<BR>
+<B>REFEREED RESEARCH PAPERS IN PROCEEDINGS AND BOOKS</B>
+<P>
+<BR>
+
+<P>
+</LI>
+<LI>``Reservoir Simulation by the Method of Front Tracking,''
+<I>Proc. of the IFE/SSI</I> seminar on Reservoir 
+Description and Simulation with Emphasis on EOR, Oslo, 18 pages, 
+Sept. 1986. (with J. Glimm, J. Grove, B. Lindquist, O. McBryan)  
+
+<P>
+</LI>
+<LI>``On The Simulation of Heterogeneous Petroleum Reservoirs,''  
+<I>Numerical Simulation in Oil Recovery (Minneapolis, Minn., 1986)</I>,
+IMA Vol. Math. Appl., 11, <I>Springer, New York</I>, pp.&nbsp;89-103, 1988.
+(with M. Maesumi, B. Lindquist, O. McBryan) 
+
+<P>
+</LI>
+<LI>``A Fast Approach to Designing Airfoils From Given Pressure 
+Distribution in Compressible Flows,'' AIAA-87-2862, 7 pages, 
+1987.
+
+<P>
+</LI>
+<LI>``Instability and Its Control in Oil Recovery Problems,''
+<I>Proc. of 6th IMACS Int. Symp. on Computer Methods 
+for Part. Diff. Eq.-VI</I>, ed.  R.&nbsp;Vichnevetsky, Bethlehem PA., pp.&nbsp;411-418, 1987.
+
+<P>
+</LI>
+<LI>``An Efficient Method for Inverse Problems,''  
+<I>Proc. of Intl. Conf. on Inverse Design Concepts 
+and Optimization in Engineering Sciences-II</I>, Penn State, 
+pp.&nbsp;469-485, 1987.
+
+<P>
+</LI>
+<LI>``On Inverse Airfoil Design,'' 
+AIAA-88-2573, pp. 1-9, 1988.
+
+<P>
+</LI>
+<LI>``On The Computation of The Rising Plane Bubble Problem,''
+<I>Proc of 7th IMACS Int. Symp. on Computer Methods for 
+Part. Diff. Eq., VI</I>, ed. R. Vichnevetsky, 
+Rutgers University, New Jersey, pp.&nbsp;165-169, 1992.
+
+<P>
+</LI>
+<LI>``A Numerical Study of an Illposed Nonlinear Wave Equation Arising 
+in Water Waves,'' in <I>Recent Advances in Engineering Science</I>, 
+Proc. of the 31st Annual Meeting of the Society of Engineering 
+Sciences, Texas A&amp;M University, College Station, p. 202, 1994.
+
+<P>
+</LI>
+<LI>``Recent Advances on Inverse Airfoil Design,''   
+<I>9th Conf. of the European Consortium for
+Mathematics in Industry</I>, 
+Copenhagen, Denmark, pp.&nbsp;764-765, 1996.
+
+<P>
+</LI>
+<LI>``A Parallel Solver for Singular Integrals,''
+Proceedings of PDPTA'99 - International Conference on
+Parallel and Distributed Processing Techniques and Applications,
+Volume III, Las Vegas, Nevada, pp. 1495-1501, 1999. (with L. Borges) 
+
+<P>
+</LI>
+<LI>``Local and Nonlocal Solitary Waves of Boussinesq Equations,''
+Proc. 13th ASCE Eng. Mech. Specialty Conference, Johns Hopkins 
+University, Baltimore MD, 1999.
+</LI>
+
+<P>
+<LI>``Rapid Design of Subcritical Airfoils,''
+AIAA-99-3795, Proc. 30th AIAA Fluid Dynamics Conference, 
+Norfolk, VA, 1999. 
+</LI>
+
+<P>
+<LI>``Studies of Capillary Ripples in a Sixth-Order Boussinesq Equation
+Arising in Water Waves,'' 
+Mathematical and numerical aspects of wave propagation (Santiago de 
+Compostela, 2000), 285-291, SIAM, Philadelphia, PA, 2000. 
+(with R. Dash).
+</LI>
+
+<P>
+<LI>``Relevance of the Sixth-Order Boussinesq Equation for Water Waves,'' 
+<I>Proc. of IMACS Intl.  Conf. on Scientific Computing 
+and Mathematical Modeling</I>, ed.  D.&nbsp;Schultz et.al.,
+Milwaukee, Wisconsin, pp.&nbsp;347-351, 2000.
+(with R. Dash)
+</LI>
+
+<P>
+<LI>``Recent Advances in Fast Algorithms for Partial Differential
+Equations,'' 
+<I>Proc. of IMACS Intl.  Conf. on Scientific Computing 
+and Mathematical Modeling</I>, ed.  D.&nbsp;Schultz et.al.,
+Milwaukee, Wisconsin, pp.&nbsp;356-366, 2000.
+</LI>
+
+<P>
+<LI>``A Fast Algorithm and Its Application to Computing Pulsatile Flow
+in an Eccentric Catheterized Artery,''
+<I>Proceedings of International Conference on Recent Advances in 
+Mathematical Sciences</I>, 
+pp. 379-390, Narosha Publishing Co, Delhi, India, 2000.
+</LI>
+
+<P>
+<LI>``An Overview of Some Fast Algorithms With Applications: Some Open 
+Problems and Challenges,''
+<I>Proceedings of International Conference on Recent Advances in 
+Mathematical Sciences</I>, 
+pp. 588-595, Narosha Publishing Co., Delhi, India, 2000.
+</LI>
+
+<P>
+<LI> ``Creeping Flows In and Around a Compound Multiphase Droplet,''
+Series: Advances in Fluid Mechanics, Vol 29, pp. 99-109, 2001, 
+WIT Press, Southampton. (with D. Palaniappan)
+</LI>
+
+<P>
+<LI> ``Fluid Flows Involving a Compound Multiphase Droplet,''
+<I>Proceedings of Fourth International Conference on Multiphase Flow</I>
+(in CD-ROM), ed. Stathis Michaelides et al., New Orleans, Louisiana, 
+12 pages, 2001, (with D. Palaniappan). 
+</LI>
+
+<P>
+<LI> ``Thin Liquid Film Flow On a Rotating Annular Disk: Asymptotic 
+Solution,'' ASME paper, 
+<I>Fifth Intl. Symp. on Num. Methods. for Multiphase Flow,</I>
+Montreal, Canada, July 14-18, 2002. 
+(With B. Dandapat and P. C. Ray) 
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/asme_02.pdf">Reprint</a> 
+
+<P>
+<LI> ``Fast Algorithms and Scientific Computation,''
+Chapter 15, <I> In Computational Mathematics, Modelling And Algorithms </I>,
+(Edited by J. C. Misra), pp. 467-517, Narosha Publishing Inc., Delhi, 2003.
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/FASC_03.pdf">Reprint</a> 
+
+<P>
+<LI> ``A Domain Embedding/Boundary Control Method to Solve
+Elliptic Problems in Arbitrary Domains,''
+<I> Proceedings of the 41st IEEE Conference on Decision and Control </I>,
+Las Vegas, Nevada, December 10-13, 2002.
+(with L. Badea)
+<br><br>
+<img src="../../images/yellowdot.gif">
+<a href="../reprints/ieee_cdc_conf02.pdf">Reprint</a> 
+
+<P>
+</LI>
+</OL>
+
+<P>
+<BR>
+
+<P>
+<B>OTHER PUBLICATIONS (THESIS, BULLETINS, ABSTRACTS ETC.)</B>
+<P>
+<BR>
+
+<P>
+
+<OL>
+<LI>``A Study of Burgers' Equation,'' M.S. Thesis,
+Brown University, 1982.
+
+<P>
+</LI>
+<LI>``Direct and Inverse Problems in Gas Dynamics,'' Ph.D. Thesis,
+Brown University, 1985.
+
+<P>
+</LI>
+<LI>``Application of Tangent Gas Approximation,''
+Bull. Amer. Phys. Soc., 29(9), pp. 1570, 1984.
+(with L. Sirovich)
+
+<P>
+</LI>
+<LI>``The Exact Inverse Method for Subcritical Flows,''
+Bull. Amer. Phys. Soc., 30(10), pp. 1715, 1985.
+(with L. Sirovich)
+
+<P>
+</LI>
+<LI>``Fingering Instability in Simulation of Multilayered Flow in 
+Porous Media and its Applications to Instability Control in 
+Tertiary Oil Recovery,''
+Bull. Amer. Phys. Soc., 31(10), pp. 1699, 1986.
+(with J. Glimm)
+
+<P>
+</LI>
+<LI>``On the Computation of the Beltrami Equation in the Complex 
+Plane,'' IMA Preprint 592,  9 pages, 1989.
+
+<P>
+</LI>
+<LI>``Theory of One-dimensional Adaptive Grid Generation,''
+IMA Preprint 612, 14 pages, 1990.
+
+<P>
+</LI>
+<LI>``Solvability Condition for Overposed Inverse Problem in Compressible 
+Flows,'' 
+Book of Abstracts, SIAM Annual Meeting, Chicago, Illinois, 1990.
+
+<P>
+</LI>
+<LI>``A New Method for One Dimensional Adaptive Grid Generation,''   
+Book of Abstracts, SIAM Annual Meeting, Chicago, Illinois, 1990.
+
+<P>
+</LI>
+<LI>``Adaptive Computation of Porous Media Flow,'' 
+Book of Abstracts, SIAM Annual Meeting, Chicago, Illinois, 1990.
+
+<P>
+</LI>
+<LI>``A Fast Algorithm to Solve Non-Homogeneous Cauchy-Riemann 
+Equations in the Complex Plane,''  
+Book of Abstracts, SIAM Annual Meeting, Washington D.C., 1991.
+
+<P>
+</LI>
+<LI>``Theory and Computations of the Rising Plane Bubble Problem,''   
+Book of Abstracts, SIAM Annual Meeting, Los Angeles, 1992.
+
+<P>
+</LI>
+<LI>``Numerical Experiments on Quasi-conformal Mapping,''   
+Book of Abstracts, SIAM Annual Meeting, Los Angeles, 1992.
+
+<P>
+</LI>
+<LI>``Some Novel Techniques for Grid Generations and Quasiconformal 
+Mappings,'' 
+Book of Abstracts, SIAM Annual Meeting, Los Angeles, 1992.
+
+<P>
+</LI>
+<LI>``The Rising Plane Bubble Problem,'' 
+Bull. Amer. Phys. Soc., 37(8), pp. 1731, 1992.
+
+<P>
+</LI>
+<LI>``Fast, Accurate and Parallel Algorithms for Solving Some Nonlinear 
+Partial Differential Equations,'' 
+Book of Abstracts, SIAM Annual Meeting, Charlotte, North Carolina, 
+1995.
+
+<P>
+</LI>
+<LI>``A Numerical Study of an Illposed Boussinesq Equation Arising in
+Water Waves,'' 
+Book of Abstracts, SIAM Annual Meeting, Charlotte, North Carolina, 
+1995.
+
+<P>
+</LI>
+<LI>``On the Fastest Smooth Taylor-Bubble Problem,''
+Book of Abstracts, SIAM Annual Meeting, Toronto, Canada, 1998.
+
+<P>
+</LI>
+<LI>``Rapid Design of Subcritical Airfoils,'' 
+Book of Abstracts, SIAM Annual Meeting, Toronto, Canada, 1998.
+
+<P>
+</LI>
+<LI>"Nonlinear Waves in Fluids", 
+Book of Abstracts of 1999 IMACS International Conference on
+Nonlinear Evolution Equations and Wave Phenomena: Computation 
+and Theory, Athens, Georgia, pp. 60, 1999. 
+
+<P>
+</LI>
+<LI>``Investigation of Some Model Water Wave Equations and Associated
+Phenomena'', 
+Book of Abstracts of 1999 IMACS International Conference on
+Nonlinear Evolution Equations and Wave Phenomena: Computation 
+and Theory, Athens, Georgia, pp. 66, 1999.
+
+<P>
+</LI>
+<LI>``Numerical and Theoretical Studies of Some Model Equations for
+Bi-Directional Propagation of Nonlinear Dispersive Long Waves,''
+Book of Abstracts, SIAM Annual Meeting, Atlanta, Georgia,
+pp. 135, 1999. 
+
+<P>
+</LI>
+<LI>``A Fast Parallel Algorithm for Singular Integral Transforms,''
+Book of Abstracts (electronic), SIAM Annual Meeting, Atlanta, 
+Georgia, 1999.
+
+<P>
+</LI>
+<LI>``Nonlinear Evolution, Filtering, Regularization and Control 
+of Short Wave Instabilities,''
+Book of Abstracts, Fifth SIAM Conference on Applications of 
+Dynamical Systems, Snowbird, Utah, pp. 66, 1999.
+
+<P>
+</LI>
+<LI>``A New Class of Model Equations for Two-way Propagation of
+Capillary-Gravity Water Waves,''
+Bull. Amer. Phys. Soc., 44(8), pp. 157, 1999.
+
+<P>
+</LI>
+<LI>``Implementations of Some Recently Developed Fast Algorithms,"
+Book of Abstracts, 
+First SIAM Conference on Computational Science and Engineering, 
+Washington D.C., pp. 50., 2000.
+
+<P>
+</LI>
+<LI>``Rapid Solutions of Elliptic Problems,"
+Book of Abstracts, 
+First SIAM Conference on Computational Science and Engineering, 
+Washington D.C., pp. 63, 2000.
+
+<P>
+</LI>
+</OL>
+
+<P>
+<BR><HR>
+<!--Table of Child-Links-->
+<A NAME="CHILD_LINKS"></A>
+
+<UL>
+<LI><A NAME="tex2html3"
+  HREF="node1.html">About this document ...</A>
+</UL>
+<!--End of Table of Child-Links-->
+<HR>
+<!--Navigation Panel-->
+<A NAME="tex2html1"
+  HREF="node1.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="file:/usr/local/lib/latex2html/icons/next.gif"></A> 
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="file:/usr/local/lib/latex2html/icons/up_g.gif"> 
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="file:/usr/local/lib/latex2html/icons/prev_g.gif">   
+<BR>
+<B> Next:</B> <A NAME="tex2html2"
+  HREF="node1.html">About this document ...</A>
+<!--End of Navigation Panel-->
+<ADDRESS>
+Prabir Daripa
+2002-01-18
+</ADDRESS>
+</BODY>
+</HTML>

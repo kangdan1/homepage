@@ -1,0 +1,44 @@
+\documentclass[12pt]{article}
+\usepackage{amssymb,amsmath,amsthm,epsfig}
+\renewcommand{\baselinestretch}{1.3}
+
+\topmargin -0.5in
+\textheight 9in %195mm
+\textwidth 6.25in %135mm
+\oddsidemargin 0.0in
+\evensidemargin 0.0in
+
+\begin{document}
+
+\begin{center}
+{\bf Correction}\\
+{\bf ``A Fast Parallel Algorithm for the Poisson Equation on a Disk,''}
+{\it J.\ Comp.\ Phys.\/}, 169, pp.~151--192, 2001.
+\end{center}
+
+The following typos in the reprint of the above paper should be corrected.
+\begin{enumerate}
+\item
+In step 5 of the Algorithm 3.1 on page 157 of the article, the formula for 
+$v_0(r_l)$ for $l=1$ should not have the term $\log r_l$. The correct form of the
+step 5 is as follows:
+
+Combine coefficients $v_n^{+}$ and $v_n^{-}$ as defined in~(15) and~(17):
+   \begin{enumerate}
+   \item[] For $l=1,\dots,M$
+      \begin{itemize}
+      \item[] $v_0(r_l) = \left\{\begin{array}{l}\ v_0^{-}(r_l) +v_0^{+}(r_l); \text{ if } l=1;\\ \log r_l\ v_0^{-}(r_l) +v_0^{+}(r_l); \text{ if } l \ne 1\end{array}\right.$
+      \item[]
+      \item[] $v_n(r_l) = \overline{v_{-n}(r_l)} = 
+              v_n^{-}(r_l) + \overline{v_{-n}^{+}(r_l)},\qquad n\in[-N/2,-1]$
+      \end{itemize}
+   \end{enumerate}
+
+\item
+In step 6 of the Algorithm 3.1 on page 157 of the article, ``For $l=2,\ldots, M$"
+should be corrected as ``For $l=1,\ldots, M$". Note that $l$ now starts from 1.
+
+\end{enumerate}
+
+\end{document}
+

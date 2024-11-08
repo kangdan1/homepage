@@ -1,0 +1,35 @@
+\begin{thebibliography}{1}
+
+\bibitem{Cardoso/Woods:1995}
+{\sc S.~Cardoso and A.~Woods}, {\em The formation of drops through viscous
+  instability}, J. Fluid Mech., 289 (1995), pp.~351--378.
+
+\bibitem{daripa08:multi-layer}
+{\sc P.~Daripa}, {\em Hydrodynamic stability of multi-layer {H}ele-{S}haw
+  flows}, J. Stat. Mech. Theory Exp., 12 (2008), p.~28.
+
+\bibitem{daripa:tipm2013}
+{\sc P.~Daripa and X.~Ding}, {\em Selection principle of optimal profiles for
+  immiscible multi-fluid {H}ele-{S}haw flows and stabilization}, Transport in
+  Porous Media, 96 (2013), pp.~353--367.
+
+\bibitem{daripa-gin:dispersion}
+{\sc P.~Daripa and C.~Gin}, {\em Studies on dispersive stabilization of porous
+  media flows}, Physics of Fluids, 28 (2016).
+
+\bibitem{gin-daripa:hs-rad}
+{\sc C.~Gin and P.~Daripa}, {\em Stability results for multi-layer radial
+  {H}ele-{S}haw and porous media flows}, Physics of Fluids, 27 (2015).
+
+\bibitem{gin-daripa:hs-rect}
+\leavevmode\vrule height 2pt depth -1.6pt width 23pt, {\em A study of a
+  non-standard eigenvalue problem and its application to three-layer immiscible
+  porous media and {H}ele-{S}haw flows with exponential viscous profile},
+  Journal of Mathematical Fluid Mechanics, 17 (2015), pp.~155--181.
+
+\bibitem{gin-daripa:hs-timedependent}
+\leavevmode\vrule height 2pt depth -1.6pt width 23pt, {\em Time-dependent
+  injection rates and linearized interfacial motion in multi-layer hele-shaw
+  and porous media flows}, Journal of Fluid Mechanics, Submitted (2017).
+
+\end{thebibliography}

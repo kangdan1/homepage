@@ -1,0 +1,84 @@
+\documentclass[10pt]{article}
+\linespread{1.5}
+\usepackage{amssymb,amsmath,amsthm}
+\usepackage{rotating}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{comment}
+%\usepackage{subfigure}
+\usepackage{caption}
+\usepackage{subcaption}
+\renewcommand{\baselinestretch}{1.3}
+\flushbottom
+
+\overfullrule=0cm
+\topmargin -.5in
+\textheight 9in
+\textwidth 6.5in
+\oddsidemargin 0.0in
+\evensidemargin 0.0in
+
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks,
+	citecolor=black,
+	filecolor=black,
+	linkcolor=RedViolet,
+	urlcolor=blue
+}
+
+%\textheight 8.5in
+%\topmargin 0.0in
+
+\excludecomment{omitext}
+\begin{document}
+\begin{center}
+	{\large\bf Summery of some results on "Hydrodynamic stability of multi-layer Hele-Shaw flows''} \\
+	\medskip
+	\href{http://www.math.tamu.edu/~daripa}{Prabir Daripa} \\
+	August 02, 2017\\
+	All blue colored texts in this statement are hyperlinks
+\end{center}
+\bigskip
+
+From Craig:
+
+Daripa has advanced this subject immensely by investigating the case of an arbitrary number of fluid regions \cite{daripa08:multi-layer} and finding conditions to prescribe optimal viscous profiles \cite{daripa:tipm2013}, among other things.
+
+Recently we published a paper \cite{gin-daripa:hs-rect} that considers the case of three fluid regions in which the intermediate fluid has an exponential viscous profile. We studied the associated eigenvalue problem and were able to provide an expansion theorem for the eigenfunctions as well as providing upper and lower bounds for all of the infinite sequence of eigenvalues.
+
+We also have a work which studies the effect of dispersion of the polymer species on the stability of the flow for the case of three-layer rectilinear flow \cite{daripa-gin:dispersion}. This analysis was done for two different types of interface conditions, one corresponding to impermeable interfaces between the fluid regions and the other requiring permeable interfaces of a certain type. We considered the effect a variety of different parameters including Peclet number, Capillary number, the viscous profile of the middle layer, and the relative strength of longitudinal and transverse dispersion. It is shown that the use of optimal viscous profiles can dramatically stabilize an unstable flow. The advantages of each type of interface are outlined.
+
+The subject is much less developed for the case of radial flows of multiple fluid regions. The case of three fluid regions of constant viscosity was studied by Cardoso and Woods \cite{Cardoso/Woods:1995}, but only in the restricted case when the inner interface is completely stable. In a recent paper \cite{gin-daripa:hs-rad}, we were able to formulate the eigenvalue problem for an arbitrary number of fluid regions. Additionally, we provide rigorous upper bounds for the eigenvalues using a variational approach and explore how the growth rates depend on different physical parameters. For example, by comparing these results with the case of rectilinear flow, we were able to see the effects of the curvature of the interface.
+
+We are currently working on formulating and studying the eigenvalue problem for radial flow with multiple fluid regions in which the intermediate regions have variable viscosity. The formulation of this eigenvalue problem will be a big step toward a more useful stability model of chemical EOR. There are many aspects of the problem that are worthwhile to study: a characterization of the eigenvalues and eigenfunctions, upper bounds on the eigenvalues that depend simply on the physical parameters, and numerical computation of the eigenvalues, among others. We are also working on an algorithm that uses the eigenvalues and eigen- functions from the linear stability analysis to compute the motion of the interfaces. These works will be completed shortly.
+
+In the future, I plan to expand the scope of my research in several directions. First, I plan to do some computational work to supplement my stability results. This will start with simulations of multi-layer Hele-Shaw flows to validate the linear stability analysis and analyze the non-linear effects. This will be an interesting computational problem because it involves multiple moving interfaces which can meet and cause the fluid regions to break up into subregions. I also wish to consider other moving interface problems for flows governed by the Navier-Stokes equations and develop new numerical techniques to efficiently solve them. Second, I plan to consider a wider range of stability problems, including ones that involve complex fluids. The tools that I have developed can be used to study the stability of many different physical problems in both fluid and solid mechanics. I am also interested in delving deeper into the study of these eigenvalue problems - both analytically and numerically.
+\bigskip\hrule\hrule\bigskip
+
+
+In \cite{gin-daripa:hs-timedependent}, 
+
+(i) Several different time-dependent injection strategies are analyzed. In particular, we investigate the conditions on the injection rate that ensure that the flow is stable. These allow for a maximal injection rate while maintaining a stable flow.
+
+(ii) Additionally, we show that in any multi-layer radial Hele-Shaw flow, if all of the interfaces are circular except for one perturbed circular interface then there exists a time-dependent injection rate such that the circular interfaces remain circular as they propagate and the disturbance on the perturbed interface decays. This result is independent of the values of all of the parameters including viscosities of fluid layers and interfacial tensions. This time-dependent configuration consisting of all but one circular interfaces is unstable to infinitesimal disturbances to one or more of these circular interfaces at the same time-dependent injection rate. 
+
+(iii) Furthermore, we also find numerically that flows with more fluid layers can be stable with faster time-dependent injection rates than comparable flows with fewer fluid layers.
+
+The motion of the interfaces within linear theory is also investigated numerically for the case of constant injection rates. Some important results, among others, are: (i) A disturbance which is initially stable can become unstable at later times; (ii) A disturbance of one interface can be transferred to the other interface(s);  (iii) The disturbances on the interfaces can develop either in phase or out of phase from any arbitrary initial disturbance; and (iv) High wavenumber disturbances are more unstable at later times compared to lower wave number disturbances.
+\bigskip\hrule\bigskip
+
+In \cite{gin-daripa:dispersion}, On Studies on Dispersive Stabilization of Porous Media
+
+Motivated by a need to improve the performance of chemical enhanced oil recovery (EOR) processes, we investigate dispersive effects on the linear stability of three-layer porous media flow models of EOR for two different types of interfaces: permeable and impermeable interfaces. Results presented are relevant for the design of smarter interfaces in the available parameter space of Capillary number, Peclet number, longitudinal and transverse dispersion and the viscous profile of the middle layer.  The stabilization capacity of each of these two interfaces is explored numerically and conditions for complete dispersive stabilization are identified for each of these two types of interfaces. Key results obtained are: (i) three- layer porous media flows with permeable interfaces can be almost completely stabilized by diffusion if the optimal viscous profile is chosen; (ii) flows with impermeable interfaces can also be almost completely stabilized for short time, but become more unstable at later times because diffusion flattens out the basic viscous profile; (iii) diffusion stabilizes short waves more than long waves which leads to a “turning point” Peclet number at which short and long waves have the same growth rate; and (iv) mechanical dispersion further stabilizes flows with permeable interfaces but in some cases has a destabilizing effect for flows with impermeable interfaces, which is a surprising result. These results are then used to give a comparison of the two types of interfaces. It is found that for most values of the flow parameters, permeable interfaces suppress flow instability more than impermeable interfaces.
+\bigskip\hrule\bigskip
+
+In \cite{gin-daripa:hs-rect},
+
+We considers the case of three fluid regions in which the intermediate fluid has an exponential viscous profile. We studied the associated eigenvalue problem and were able to provide an expansion theorem for the eigenfunctions as well as providing upper and lower bounds for all of the infinite sequence of eigenvalues.
+
+
+\bibliographystyle{siam}
+\bibliography{references-HS-EOR}
+
+\end{document}

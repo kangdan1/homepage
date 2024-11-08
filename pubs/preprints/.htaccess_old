@@ -1,0 +1,9 @@
+AuthUserFile /u/daripa/public_html/etc/.htpasswd_security
+AuthGroupFile /u/daripa/public_html/etc/NULL
+AuthName Address List
+AuthType Basic
+ 
+<Limit GET>
+require user preprints
+</Limit>
+

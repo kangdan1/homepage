@@ -1,0 +1,62 @@
+<html>
+<head>
+
+<TITLE>read-more</TITLE>
+<META NAME="description" CONTENT="qnrf-nsf">
+<META NAME="keywords" CONTENT="qnrf-nsf">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META NAME="Generator" CONTENT="LaTeX2HTML v2008">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="qnrf-nsf.css">
+
+<LINK REL="next" HREF="node1.html">
+</HEAD>
+
+<BODY >
+<div id="container" style="margin: 0 auto; width: 700px; text-align: left;>
+
+<P>
+<BIG CLASS="LARGE"><B>More on FFTRR-based Fast Algorithms and Applications</B></BIG>
+<BR>
+
+<p>
+Detailed Description (scroll down for links to publications, gallery,etc.)
+<br>
+
+<p>
+We have developed fast and accurate algorithms for solving several second order and fourth order constant coefficient elliptic PDEs with forcing terms for a variety of boundary conditions in a two-dimensional unit ball in real and complex planes. The solution procedure involves using Fourier representation of the forcing term in the integrand of the volume integrals. Then using real or complex analysis tools, as the case may be, on the resulting integral, a relationship is obtained between the Fourier coefficients of the solution of the PDE and the Fourier coefficients of the forcing term. This relationship contains one dimensional definite integrals, each over a segment of the interval [0,1]. The method is accelerated by using recursive relations when computing the Fourier coefficients of the solution of the PDE. 
+
+Based on this solution procedure, the algorithm with M intervals in the radial direction and N intervals in the azimuthal direction of the unit ball is as follows: (i) first compute the radius dependent Fourier-coefficients, say f_n(r), -N \le n \le N, of the forcing function f(r,theta) on M circles. (ii) then using the recursive relations,  evaluate the Fourier coefficients, say u_n(r) of the solution u(r,theta)  on each circle of radius r; and then (iii) use FFT to find the solution u(r,theta) on each circle from its Fourier coefficients u_n(r) evaluated in step (ii). The analysis shows that Fourier coefficients u_n(r) of the solution u(r,theta) for any circle of radius r separates into two groups in the following way: u_n(r), forall n>0 on any radius r are determined by the recursive relations that use values of u_n(r) with  r > R and u_n(r), forall n<0 on any radius `r' are determined by the recursive relations that use values of u_n(r) with r < R. This feature and the recursive relations make these algorithms inherently parallel in nature and hence suitable for parallel implementation.
+</p>
+
+<p>
+These algorithms are called FFTRR-based fast algorithms which is appropriate since these are based on the use of FFT and Recursive Relations (RR). These algorithms have many desirable features: (i) the algorithms have very low computational complexity: O(log N) per degree of freedom (DoF) on a single processor machine where N^2 is the total number of grid points in the discretization of the domain. This complexity is a significant improvement over O(N^2) per DoF complexity of traditional methods of evaluation of volume integrals by straight-forward quadrature method; (ii) The constant hidden behind the order estimate of computational complexity of these algorithms is also very small; (iii) The recursive relations allow one to define higher order integration methods in the radial direction without the inclusion of additional grid points; (iv) The order of accuracy of the solution primarily depends on the numerical integration scheme of one-dimensional integrals involved in the recursive relations of these fast algorithms. It is second (third) order when trapezoidal (Simpson's) integration formula is used. The order of accuracy can be further increased using Euler-Maclaurin formulas for integration. The complexity estimate of these algorithms is independent of the order of accuracy; (v) These algorithms are parallelizable by construction and easily implementable; (vi) A prior selection of the number of grid points based on desired accuracy is possible; and (vii) these algorithms are easily implemented.
+</p>
+
+<p>
+We have also developed hybrid fast methods for arbitrary domains which use these FFTRR-based fast algorithms and domain embedding techniques. The solution procedure uses a ball of appropriate radius as an embedding domain for the arbitrary domain, and our fast algorithm for the unit ball which obviously needs to be scaled up due to different radius of the embedding ball. The solution of the original problem for the arbitrary domain is then obtained by enforcing the boundary conditions on the boundary of the irregular domain in a least squares sense by using either distributed controls or boundary controls. 
+
+These algorithms have been applied by the PI's group and others to solve a wide variety of problems. Some of these have been applied to aerodynamic design problems in subcritical flow regime, biofluid mechanics problems, Stokes flow problems,  Quasi-conformal mappings, quasi-conformal grid generation, solving inhomogeneous Cauchy-Riemann equations, Beltrami equations, and complex biharmonic equations, just to name a few. Most recent work by the PI and his group has been the application of our FFTRR-based fast algorithms discussed above for biharmonic problems to solve incompressible Stokes flow problems. 
+</p>
+
+<dl>
+
+<dd> 
+<a href="/~daripa/pubs/allpubs/pubs-FFTRR.html" TARGET="read-more">Publications on this topic</a></dd>
+
+<dd>
+<a href="./gallery.html" TARGET="read-more">Gallery</a></dd>
+
+<script>
+<dd>
+<a href="./software.html" TARGET="read-more">Software</a></dd>
+</script>
+
+</ul>
+
+</div>
+</body>
+</html>
